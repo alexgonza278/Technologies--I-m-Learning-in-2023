@@ -5,3 +5,30 @@ This repository is a comprehensive collection of the latest technologies and too
 ## HANDS ON CODE!!!  
 
 ![MANOS-AL-CODIGO](https://i.kym-cdn.com/photos/images/original/000/115/729/128137750187120110725-22047-1qunhxc.png)
+
+
+## technologies:
+- GIT
+- MARKDOWN
+- GITHUB
+- LINUX-TERMINAL
+- HTML5
+- CSS3
+- JAVASCRIPT NATIVO / VAINILLA JS
+- BOOSTRAP
+- TAILWIND
+- REACT JS
+- MYSQL SQL
+- NODE JS
+- SPRING BOOT
+- SPRING SECURITY
+- REACT NATIVE
+- ANGULAR JS
+- METODOLOGIAS AGILES
+- JPA
+- EXPRES.JS
+- MONGODB NOSQL
+- SEGURIDAD WEB
+- DOCKER
+- HUGO
+- ASTRO
