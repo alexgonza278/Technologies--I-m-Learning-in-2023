@@ -1,4 +1,5 @@
-hoy recreare el README.md de la documentación oficial de [VSCodeVIm](https://github.com/VSCodeVim/Vim/blob/master/README.md)
+hoy recreare el README.md de la documentación oficial de [VSCodeVIm] https://github.com/VSCodeVim/Vim/blob/master/README.md)
+😄
 
 <h2 align="center">  </h2>
 
